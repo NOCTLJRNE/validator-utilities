@@ -26,4 +26,4 @@ one1t5necyk0sxlzt4w4zq62jcmy29gj7vt9sq0f66,0x5d279C12Cf81BE25D5D51034A9636451512
 one194hfumyvjmsqqhecjwrwpzkpkzefru9kt0uyqt,0x2D6E9E6c8c96e0005f389386e08Ac1B0b291F0b6
 ...
 ```
-Finally you can use this file with johnashu's script to perform airdrop for your delegators (the script uses the 2nd column for destination addresses). 
+Finally you can use this file as input for johnashu's script https://github.com/johnashu/Harmony-Airdrop to perform airdrop for your delegators (the script uses the 2nd column for destination addresses). 
